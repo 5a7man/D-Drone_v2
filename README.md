@@ -24,8 +24,8 @@ Results of training: [https://drive.google.com/drive/folders/10PtE5FC6xY-ilt6aEJ
 
 Results of testing: [https://drive.google.com/drive/folders/11uZifIiwRu6sHQ4qSIHaR1mGL8TmiA2H?usp=sharing]
 
-![img](Output/7.png)
-![img](Output/8.png)
+![img](Output/7.jpg)
+![img](Output/8.jpg)
 
  
 ## DeTr
