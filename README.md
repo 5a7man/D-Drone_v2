@@ -18,8 +18,7 @@ For looking into training done by authors, please check [this](https://drive.goo
 
 Datasets: [https://drive.google.com/drive/folders/1tQ4HVngp1kzZkrToxrTLp0GtncTyhs2u?usp=sharing]
 
-Weights:
-
+Weights: [https://drive.google.com/file/d/11A6IAbG8eWH89qXRufFzMx-1rLt4IE1R/view?usp=sharing]
 
 
 ## DeTr
