@@ -28,3 +28,6 @@ Results of testing: [https://drive.google.com/drive/folders/11uZifIiwRu6sHQ4qSIH
  
 ## DeTr
 Coming Soon
+
+## Results
+Standard procedures are not yet applied to get the mAP of trained models. However through rough calculations, it is estimated that YOLOv4 gives a mAP of 82.2% while YOLOv5 79.72%
