@@ -6,7 +6,24 @@ For looking into training done by authors, please check [this](https://drive.goo
 
 Dataset: [https://drive.google.com/drive/folders/1tQ4HVngp1kzZkrToxrTLp0GtncTyhs2u?usp=sharing]
 
+Weights: [https://drive.google.com/file/d/1XbwVrfEoQt8jQLFPlpgxxqhtOafsA10y/view?usp=sharing]
+
+Configuration File: [https://drive.google.com/file/d/1QXFrqyrYkYcGcXQDrz1l2ILqf4kFyZ9p/view?usp=sharing]
+
+To see results using open cv, download respective weights and configuration file. Change path for loading weights, config file and test image.
+
+
 ## YOLOv5
 For looking into training done by authors, please check [this](https://drive.google.com/drive/folders/14Tfz8pdNqrTzAwVxs0HB1jbRtyVD1Tw5?usp=sharing)
 
 Datasets: [https://drive.google.com/drive/folders/1tQ4HVngp1kzZkrToxrTLp0GtncTyhs2u?usp=sharing]
+
+Weights:
+
+Configurtion File:
+
+To see results using open cv, download respective weights and configuration file. Change path for loading weights, config file and test image.
+
+
+## DeTr
+Coming Soon
