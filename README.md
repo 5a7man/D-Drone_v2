@@ -20,9 +20,6 @@ Datasets: [https://drive.google.com/drive/folders/1tQ4HVngp1kzZkrToxrTLp0GtncTyh
 
 Weights:
 
-Configurtion File:
-
-To see results using open cv, download respective weights and configuration file. Change path for loading weights, config file and test image.
 
 
 ## DeTr
