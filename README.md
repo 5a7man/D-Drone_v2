@@ -20,6 +20,10 @@ Datasets: [https://drive.google.com/drive/folders/1tQ4HVngp1kzZkrToxrTLp0GtncTyh
 
 Weights: [https://drive.google.com/file/d/11A6IAbG8eWH89qXRufFzMx-1rLt4IE1R/view?usp=sharing]
 
+*Results of training: [https://drive.google.com/drive/folders/10PtE5FC6xY-ilt6aEJGVkSEiUUlS1XGa?usp=sharing]
+*Results of testing: [https://drive.google.com/drive/folders/11uZifIiwRu6sHQ4qSIHaR1mGL8TmiA2H?usp=sharing]
 
+
+ 
 ## DeTr
 Coming Soon
