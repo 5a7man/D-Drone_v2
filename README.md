@@ -27,9 +27,9 @@ Datasets: [https://drive.google.com/drive/folders/1_hZ1s7CSGq0-4ntKfrI08nLO9ncmK
 Weights: [https://drive.google.com/file/d/1--MtwzFFU1nrI_9TX8sY_f7ZHSHO_suy/view?usp=sharing]
 
 ## Results
-For assesment of trained models, an (open source tool)[https://github.com/rafaelpadilla/review_object_detection_metrics] is used.
+For assesment of trained models, an [open source tool](https://github.com/rafaelpadilla/review_object_detection_metrics) is used.
 
-![img](metrics.png)
+![img](Output/metrics.png)
 
 ---
 ![img](Output/1.png)
