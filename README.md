@@ -42,5 +42,4 @@ For assesment of trained models, an [open source tool](https://github.com/rafael
 ![img](Output/4.png)
 ![img](Output/5.png)
 ![img](Output/6.png)
-![img](Output/results.png)
-![img](Output/PR_curve.png)
+
