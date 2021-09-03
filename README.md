@@ -4,7 +4,7 @@ Detection of Drones using Computer Vision Algorithms
 ## Citation
 This work was published in the [2021 International Conference on Electrical, Communication, and Computer Engineering (ICECCE)](https://ieeexplore.ieee.org/document/9514124)
 
-If you use this dataset or models in your research, please consider citing this:
+If you use this dataset or models in your research, please consider citing:
 ```
 @inproceedings{kabir2021deep,
   title={Deep Learning Inspired Vision based Frameworks for Drone Detection},
