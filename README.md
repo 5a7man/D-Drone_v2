@@ -1,5 +1,20 @@
 # D-Drone_v2
-Detection of Drones using Computer Vision Algorithms. All material will be made public once work is completed.
+Detection of Drones using Computer Vision Algorithms
+
+## Citation
+This work was published in the [2021 International Conference on Electrical, Communication, and Computer Engineering (ICECCE)](https://ieeexplore.ieee.org/document/9514124)
+
+If you use this dataset or models in your research, please consider citing this:
+```
+@inproceedings{kabir2021deep,
+  title={Deep Learning Inspired Vision based Frameworks for Drone Detection},
+  author={Kabir, Muhammad Salman and Ndukwe, Ikechi Kalu and Awan, Engr Zainab Shahid},
+  booktitle={2021 International Conference on Electrical, Communication, and Computer Engineering (ICECCE)},
+  pages={1--5},
+  year={2021},
+  organization={IEEE}
+}
+```
 
 ## YOLOv4 based Model
 For authors' work, please check [this](https://drive.google.com/drive/folders/1SGgtK0FJicg-0E2usUne9w4FQ4Gre2j9?usp=sharing)
@@ -34,12 +49,4 @@ Weights: [https://drive.google.com/file/d/1--MtwzFFU1nrI_9TX8sY_f7ZHSHO_suy/view
 For assesment of trained models, an [open source tool](https://github.com/rafaelpadilla/review_object_detection_metrics) is used.
 
 ![img](Output/metrics.PNG)
-
----
-![img](Output/1.png)
-![img](Output/2.png)
-![img](Output/3.png)
-![img](Output/4.png)
-![img](Output/5.png)
-![img](Output/6.png)
 
