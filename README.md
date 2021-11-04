@@ -1,5 +1,5 @@
 # D-Drone_v2
-Detection of Drones using Computer Vision Algorithms. For authors' work please check [this](https://drive.google.com/drive/folders/1vG3jHhi2Dll3LTjVs1JgIu_Q_ApfqmmU?usp=sharing)
+Detection of Drones using Computer Vision Algorithms. For authors' work, please check [this](https://drive.google.com/drive/folders/1vG3jHhi2Dll3LTjVs1JgIu_Q_ApfqmmU?usp=sharing)
 
 ## Citation
 This work was published in the [2021 International Conference on Electrical, Communication, and Computer Engineering (ICECCE)](https://ieeexplore.ieee.org/document/9514124)
